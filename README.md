@@ -1,7 +1,6 @@
 
 # Spark and Prepper 📚✨  
 *Shake Up Your Study Routine with AI-Powered Tools*
-DEVPOST LINK: https://devpost.com/software/sparkandprepper?_gl=1*1luc6uy*_gcl_au*MTk4MTUyMDEwNy4xNzQ2MjQxNTgw*_ga*MTcxMDYyMTUyLjE3NDYyNDE1ODA.*_ga_0YHJK3Y10M*MTc0NjQ1Njg4MS45LjEuMTc0NjQ1Njg5Ny4wLjAuMA..
 ![image](https://github.com/user-attachments/assets/712924db-bdfb-44d9-8df7-b27efa93baa5)
 
 
