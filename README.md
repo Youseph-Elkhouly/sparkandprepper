@@ -1,5 +1,5 @@
 
-# Spark and Prepper 📚✨  
+# Spark and Prepper GDSC2025 Hackathon 📚✨  
 *Shake Up Your Study Routine with AI-Powered Tools*
 ![image](https://github.com/user-attachments/assets/712924db-bdfb-44d9-8df7-b27efa93baa5)
 
